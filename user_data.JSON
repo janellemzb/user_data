@@ -1,15 +1,18 @@
 {
-  "users": [
+  "data": [
     {
-      "username": "zhanel",
-      "password": "123"
+      "username": "exampleUser",
+      "password": "examplePassword"
     },
     {
-      "username": "saule",
+      "username": "anotherUser",
+      "password": "anotherPassword"
+    },
+   {
+      "username": "zhanel",
       "password": "123"
     }
-   {
-
-   }, 
+    // Другие пользователи
   ]
 }
+
